@@ -1,4 +1,5 @@
 body {
+  background-color: #fffcff;
   margin: 0;
   padding: 0;
   font-family: 'Roboto', sans-serif;
@@ -12,3 +13,11 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
+
+/*
+    brown: #50514F
+    light greenish: #CBD4C2
+    white: #fffcff
+    bluish: #247BA0
+    beige: #C3B299
+*/
